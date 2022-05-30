@@ -7,12 +7,12 @@
 
 1. Create a Layered SVG in Adobe Illustrator, Inkscape, etc.
 
-2. Copy your SVG code.
+2. launch "animate.svg.layers.exe" (https://github.com/aad1416/animate-svg-with-layers/releases). 
+      * Notice: if you have Python3 on your computer, you can run Source Code too.
 
-3. Open "animate.svg.layers.exe" (https://github.com/aad1416/animate-svg-with-layers/releases). 
-      * Notice: if you have Python3 on your computer, you can run "animate svg layers.pyw" too.
+3. If you copied the SVG code, the program fetch it from clipboard automatically. Else open your SVG file.
 
-4. Your animated SVG code is ready, just like that! also code is minified, so copy it and paste in your HTML or in your SVG file.
+4. Click on "animate". Your animated SVG code is ready, just like that! also code is minified.
 
 # how it works?
 
@@ -20,4 +20,4 @@ It only adds to your SVG code a few scripts and css phrases that are less than 5
 Scripts change the Opacity of layers,then the animation is done via the GPU instead of CPU.
 
 ---
-<a href="https://github.com/aad1416/animate-svg-with-layers/releases">animate.svg.layers.exe</a>
+[***animate.svg.layers.exe***](https://github.com/aad1416/animate-svg-with-layers/releases)
