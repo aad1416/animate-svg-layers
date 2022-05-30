@@ -7,7 +7,7 @@
 
 1. Create a Layered SVG in Inkscape, Adobe Illustrator, etc.
 
-2. launch "animate.svg.layers.exe" (https://github.com/aad1416/animate-svg-with-layers/releases). 
+2. launch ["animate.svg.layers.exe"](https://github.com/aad1416/animate-svg-with-layers/releases). 
       * Notice: if you have Python3 on your computer, you can run Source Code too.
 
 3. If you copied the SVG code, the program fetch it from clipboard automatically. Else open your SVG file.
