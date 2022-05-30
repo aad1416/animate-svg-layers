@@ -12,7 +12,7 @@
 
 3. If you copied the SVG code, the program fetch it from clipboard automatically. Else open your SVG file.
 
-4. Click on "animate". Your animated SVG code is ready, just like that! also code is minified.
+4. Click on "animate SVG". Your animated SVG code is ready, just like that! also code is minified.
 
 # how it works?
 
