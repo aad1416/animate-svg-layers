@@ -1,9 +1,9 @@
 <meta name='keywords' content='svg, SVG, animation, animated, svg layers, layer, animation inkscape, svg animation, animated svg, animation Illustrator, animated layers, animation layer'>
 
-# animate-svg-with-layers
+# animate-svg-layers
 > **no need to install ; without dependency**
 
-**make SVG animation with layers:**
+**Make SVG Animation By Layers:**
 
 1. Create a Layered SVG in Inkscape, Adobe Illustrator, etc.
 
