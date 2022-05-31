@@ -3,13 +3,13 @@ import os,base64
 from tkinter import scrolledtext
 from tkinter.messagebox import showinfo
 from tkinter.filedialog import asksaveasfilename, askopenfilename
-layers=[]
-ss=[]
 r=Tk()
 r.title('svg animation')
 r.geometry('600x650')
 Label(r,text='Enter your SVG:').grid(column=0,row=0)
 def click():
+    layers=[]
+    ss=[]
     outputtext['state']='normal'
     outputtext.delete(1.0,END)
     inpsvg=inputsvg.get(1.0,END)
